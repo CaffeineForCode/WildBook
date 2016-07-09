@@ -1,4 +1,7 @@
-# WildBook-A-Platform-to-share-your-activity-and-hobbies-like-Facebook
+# WildBook
+
+-Wildbook was developed with the concept of helping people interact with each other about the adventures they have been doing or are about to do. It included the features like uploading photos, real-time commenting, liking, sharing locations and bookmarking best location for an adventure.
+-Developed both frontend and backend using PHP, MySQL and Google Map API
 
 It includes:
   - Create account
